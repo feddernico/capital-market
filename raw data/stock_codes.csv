@@ -1,0 +1,21 @@
+id;stock_code;wsj_code;stock_name;stock_des
+1;AAPL;AAPL;APPLE;Apple Inc.
+2;AMZN;AMZN;AMAZON;Amazon.com Inc.
+3;BNP.MI;IT/BNP;BNP_IT;BNP Paribas
+4;BRK-A;BRK.A;BRK_A;Berkshire Hathaway Inc.
+5;FB;FB;FACEBOOK;Facebook Inc.
+6;GE;GE;GEN_ELEC;General Electric Company Common
+7;GOOG;GOOG;GOOGLE;Google
+8;HSBC;HSBC;HSBC;HSBC Holdings plc. Common
+9;JNJ;JNJ;JOHN_N_JOHN;Johnson & Johnson
+10;JPM;JPM;JP_MORGAN;J.P. Morgan Chase & Co. Common St
+11;MSFT;MSFT;MICROSOFT;Microsoft Corporation
+12;NSRGY;NSRGY;NESTLE_SA;Nestlé S.A.
+13;NVS;NVS;NOVARTIS;Novartis AG
+14;PG;PG;PROC_GAMB;Procter & Gamble Company
+15;RDS-B;RDS.B;ROYAL_DUTCH;Royal Dutch Shell PLC
+16;ROG.VX;CH/ROG;ROCHE_HLDG;Roche Holding AG
+17;TM;TM;TOYOTA;Toyota Motor Corporation
+18;WFC;WFC;WELLS_FARGO;Wells Fargo & Company
+19;WMT;WMT;WAL_MART;Wal-Mart Stores Inc.
+20;XOM;XOM;EXXON_MOBIL;Exxon Mobil Corporation Common
